@@ -28,8 +28,8 @@
 
 //#define IMPCONNECTION_INPECT_SEND
 
-#define SERVER_ADDR                     "imparty.no-ip.org"
-//#define SERVER_ADDR                     "localhost"
+//#define SERVER_ADDR                     "imparty.no-ip.org"
+#define SERVER_ADDR                     "localhost"
 #define SERVER_PORT                     6868
 
 #undef g_new0
